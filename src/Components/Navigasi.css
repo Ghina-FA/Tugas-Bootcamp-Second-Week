@@ -1,0 +1,30 @@
+.Navigation {
+    text-align: center;
+    background-color: rgb(133, 255, 103);
+    max-width: 300px;
+    margin-left: 550px;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+.Pages {
+    list-style-type: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.JudulNavigasi {
+    margin-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.button {
+    background-color: rgb(255, 255, 255);
+    width: 100px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    margin-left: 60px;
+}
+
+link {
+    color: rgb(250, 215, 215);
+}

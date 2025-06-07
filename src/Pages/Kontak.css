@@ -1,0 +1,16 @@
+.kontak {
+    background-color: #a8e3ff;
+    max-width: 500px;
+    margin-left: 450px;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.Judulkontak {
+    text-align: center;
+}
+
+.listkontak {
+    list-style: none;
+    margin-left: 80px;
+}
